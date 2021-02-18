@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Synphaera Radio" tvg-country="" tvg-language=""
-http://somafm.com/m3u/synphaera130.m3u
-#EXTINF:-1 tvg-id="" tvg-name="n5MD Radio" tvg-country="" tvg-language=""
-http://somafm.com/m3u/n5md130.m3u
+#EXTINF:-1, Synphaera Radio
+http://ice4.somafm.com/synphaera-128-aac
+#EXTINF:-1, n5MD Radio
+http://ice2.somafm.com/n5md-128-aac
