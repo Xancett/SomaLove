@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language=""
-tvg-logo="https://somafm.com/img3/synphaera120.jpg" group-title="",Synphaera Radio
+#EXTINF:-1 tvg-id="" tvg-name="Synphaera Radio" tvg-country="" tvg-language=""
 http://somafm.com/m3u/synphaera130.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language=""
-tvg-logo="https://somafm.com/img/n5md120.png" group-title="",n5MD Radio
+#EXTINF:-1 tvg-id="" tvg-name="n5MD Radio" tvg-country="" tvg-language=""
 http://somafm.com/m3u/n5md130.m3u
